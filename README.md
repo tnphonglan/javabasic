@@ -1,3 +1,3 @@
 # javabasic
-test local
+test code
 123456

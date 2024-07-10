@@ -3,7 +3,7 @@ public class SinhVien {
     public static String Lop = "GIS";
     public void getMaSV() {
         String MaSV = "001";      // Biến cục bộ
-        System.out.println("MaSV la: " + MaSV);
+        System.out.println("MaSV: " + MaSV);
     }
     public void getKhoa(){
         System.out.println("Khoa: " + Khoa);

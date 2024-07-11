@@ -1,6 +1,6 @@
 package caulenhdieukien;
 
-public class DieuKienIfElse {
+public class DieuKien_IF_Else {
     public static void main(String[] args) {
         int number1 = 10;
         int number2 = 20;
@@ -12,5 +12,6 @@ public class DieuKienIfElse {
         else {
             System.out.println("Không thỏa điều kiện");
         }
+
     }
 }

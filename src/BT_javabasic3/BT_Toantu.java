@@ -1,4 +1,4 @@
-package BT_javabasic3.BT_Toantu;
+package BT_javabasic3;
 
 public class BT_Toantu {
     public static void main(String[] args) {

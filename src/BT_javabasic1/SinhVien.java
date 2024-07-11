@@ -1,3 +1,5 @@
+package BT_javabasic1;
+
 public class SinhVien {
     String Khoa = "Địa Lý";  //Biến toàn cục
     public static String Lop = "GIS";

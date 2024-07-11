@@ -1,3 +1,5 @@
+package BT_javabasic2;
+
 public class Calculator {
     public static int tong2songuyen (int n1, int n2){
         return n1 + n2;

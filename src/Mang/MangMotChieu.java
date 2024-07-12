@@ -11,7 +11,7 @@ public class MangMotChieu {
         songuyen[1] = 7;
         songuyen[6] = 10;
 
-        //Gán giá trị bằng vòng ặp For
+        //Gán giá trị bằng vòng lặp For
         for (int i = 0; i < songuyen.length; i++){
             songuyen[i] = 5;
         }

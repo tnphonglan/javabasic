@@ -11,8 +11,8 @@ public class VongLapFor_Mang {
             index++;
         }
         System.out.println("Các số chẵn đã lưu trong mảng");
-        for (int i1: sochan){
-            System.out.println(i1);
+        for (int i: sochan){
+            System.out.println(i);
         }
         }
     }
